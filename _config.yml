@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"   # you can change later or remove image
   name             : "Mahrokh Hassani"
   pronouns         :
-  bio              : "Software engineer with an MSc in AI, focusing on music and audio computing through machine learning and signal processing."
+  bio              : bio: "AI engineer with an MSc in Artificial Intelligence, focusing on music and audio computing through machine learning and signal processing."
   location         : "Netherlands"
   employer         :
   uri              :
