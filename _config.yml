@@ -7,29 +7,27 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mahrokh Hassani"
-title_separator          : "-"
-name                     : &name "Mahrokh Hassani"
-description              : &description "Agents · Machine Learning · Creative Technology . LBMs"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://alexx99-hs.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alexx99-hs/alexx99-hs.github.io"
+locale: "en-US"
+site_theme: "default"
+title: "Mahrokh Hassani"
+title_separator: "-"
+name: "Mahrokh Hassani"
+description: &description "Agents · Machine Learning · Creative Technology . LBMs"   # Update this with a general description of your site, this is the default if not overridden by a page
+url: "https://alexx99-hs.github.io"
+baseurl: ""
+repository: "alexx99-hs/alexx99-hs.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"   # you can change later or remove image
-  name             : "Mahrokh Hassani"
-  pronouns         :
-  bio              : bio: "AI engineer with an MSc in Artificial Intelligence, focusing on music and audio computing through machine learning and signal processing."
-  location         : "Netherlands"
-  employer         :
-  uri              :
-  email            : "mahrokhhassani99@gmail.com"
+  avatar:
+  name: "Mahrokh Hassani"
+  bio: "AI engineer with an MSc in Artificial Intelligence, working at the intersection of music, audio, and machine learning."
+  location: "Netherlands"
+  email: "mahrokhhassani99@gmail.com"
+  github: "alexx99-hs"
+  linkedin: "mahrokh-hassani-1a0002353"
 
   # Academic websites
   academia         :
