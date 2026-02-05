@@ -12,4 +12,15 @@ In addition to digital production, I have experience **playing musical instrumen
 My interest in music is closely connected to my technical background. I am particularly motivated by questions around how music and audio can be **represented, analyzed, and generated computationally**, and how machine learning and signal processing methods can support creative workflows and human–AI co-creative systems.
 
 Below are selected examples of my ongoing music production work, including beats and audio sketches.
+### Selected Music Examples
+
+- **Beat Sketch 01**  
+  Digital music production experiment exploring rhythm, texture, and structure.  
+  [Private audio link](https://drive.google.com/file/d/1w-zO6yOs-HTwMquZ8v0jFePnowfMaLjL/view?usp=sharing)
+
+- **Beat Sketch 02**  
+  Ongoing audio sketch focused on sound design and arrangement.  
+  [Private audio link](https://drive.google.com/file/d/12Be0vyt4i8vt3pMFIAaWseEAS1llhAUy/view?usp=sharing)
+
+*Tools: Digital music production using GarageBand, with a focus on composition, arrangement, sound design, and basic audio processing.*
 
