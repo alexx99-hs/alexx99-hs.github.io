@@ -21,14 +21,14 @@ repository: "alexx99-hs/alexx99-hs.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "/assets/images/profile.jpg"
+  #avatar: "/assets/images/profile.jpg"
   name: "Mahrokh Hassani"
   bio: "AI engineer with an MSc in Artificial Intelligence, working at the intersection of music, audio, and machine learning."
   location: "Netherlands"
   email: "mahrokhhassani99@gmail.com"
   github: "alexx99-hs"
   linkedin: "mahrokh-hassani-1a0002353"
-
+  bio_photo: "profile.jpg"
   # Academic websites
   academia         :
   arxiv            :
