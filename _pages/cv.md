@@ -4,6 +4,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+📄 **Download full CV (PDF):**  
+[Mahrokh_Hassani_CV.pdf](/files/cv_mahrokh_hassani_AI.pdf)
 
 ## Education
 
