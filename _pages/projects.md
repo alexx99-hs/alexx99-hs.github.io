@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+collection: portfolio
 ---
 
-Here is a selection of my technical and research-oriented projects, spanning AI systems, language models, and music/audio exploration.
+A selection of my research and engineering projects at the intersection of artificial intelligence, language models, and music/audio systems.
+
