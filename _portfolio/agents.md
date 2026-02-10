@@ -1,7 +1,7 @@
 ---
-title: "Project title"
+title: "Agent-Based AI Systems"
 collection: portfolio
-excerpt: "One-line description."
+excerpt: "Design and evaluation of controllable, multilingual AI agents."
 ---
 
 ### Overview
